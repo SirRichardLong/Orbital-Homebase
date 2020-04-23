@@ -56,21 +56,9 @@
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": 300,
+		"price": 100,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
-	},
-	{
-		"abr": "advancedgeothermalgenerator",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_adv_geothermal_generator"
-	},
-	{
-		"abr": "advancednuclearpowerplant",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_nuclear_power_plant"
 	},
 	{
 		"abr": "advancedpowerarm",
@@ -83,18 +71,6 @@
 		"price": -10,
 		"category": "Ultratech",
 		"defname": "AdvancedPowerClaw"
-	},
-	{
-		"abr": "advancedsolargenerator",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_adv_solar_generator"
-	},
-	{
-		"abr": "advancedwindturbine",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_adv_wind_turbine"
 	},
 	{
 		"abr": "agavefruit",
@@ -260,19 +236,19 @@
 	},
 	{
 		"abr": "artificialclavicle",
-		"price": 120,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "ArtificialClavicle"
 	},
 	{
 		"abr": "artificialnose",
-		"price": 300,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "ArtificialNose"
 	},
 	{
 		"abr": "artificialpelvis",
-		"price": 450,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "ArtificialPelvis"
 	},
@@ -404,49 +380,49 @@
 	},
 	{
 		"abr": "bionicarm",
-		"price": 1200,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
-		"price": 1200,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
-		"price": 1200,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicfoot",
-		"price": 600,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicFoot"
 	},
 	{
 		"abr": "bionichand",
-		"price": 600,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "bionicjaw",
-		"price": 2400,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicJaw"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 1200,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 2400,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
@@ -830,7 +806,7 @@
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 600,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "CochlearImplant"
 	},
@@ -842,7 +818,7 @@
 	},
 	{
 		"abr": "component",
-		"price": 100,
+		"price": 33,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -902,7 +878,7 @@
 	},
 	{
 		"abr": "denture",
-		"price": 65,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "denture"
 	},
@@ -1064,7 +1040,7 @@
 	},
 	{
 		"abr": "earbandage",
-		"price": 65,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "EarBandage"
 	},
@@ -1196,7 +1172,7 @@
 	},
 	{
 		"abr": "eyepatch",
-		"price": 65,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "EyePatch"
 	},
@@ -1466,7 +1442,7 @@
 	},
 	{
 		"abr": "goldeneye",
-		"price": 600,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "GoldenEye"
 	},
@@ -1517,78 +1493,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
-	},
-	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestglitterworldhospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "GlitterworldHospitalBedSWGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestkrudneppsinglebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "KRUDNEPPSingleGuest"
-	},
-	{
-		"abr": "guestpilfurbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "PILFURBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestslabneppdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SLABNEPPDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SNOREGGDoubleGuest"
-	},
-	{
-		"abr": "guestsnoreggsinglebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SNOREGGSingleGuest"
 	},
 	{
 		"abr": "guineapig",
@@ -1706,7 +1610,7 @@
 	},
 	{
 		"abr": "hookhand",
-		"price": 94,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "HookHand"
 	},
@@ -1790,7 +1694,7 @@
 	},
 	{
 		"abr": "hydraulicjaw",
-		"price": 2400,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "HydraulicJaw"
 	},
@@ -2102,7 +2006,7 @@
 	},
 	{
 		"abr": "lightreceptor",
-		"price": 1200,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "LightReceptor"
 	},
@@ -2336,7 +2240,7 @@
 	},
 	{
 		"abr": "milk",
-		"price": -10,
+		"price": 5,
 		"category": "Animal products",
 		"defname": "Milk"
 	},
@@ -2414,7 +2318,7 @@
 	},
 	{
 		"abr": "musclestimulator",
-		"price": -10,
+		"price": 14000,
 		"category": "Archotech",
 		"defname": "MuscleStimulator"
 	},
@@ -2612,7 +2516,7 @@
 	},
 	{
 		"abr": "pegleg",
-		"price": 115,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "PegLeg"
 	},
@@ -3176,25 +3080,25 @@
 	},
 	{
 		"abr": "simpleprostheticarm",
-		"price": 1200,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "simpleprostheticfoot",
-		"price": 600,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
 		"abr": "simpleprosthetichand",
-		"price": 600,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHand"
 	},
 	{
 		"abr": "simpleprostheticleg",
-		"price": 1200,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg"
 	},
@@ -3422,7 +3326,7 @@
 	},
 	{
 		"abr": "steelarm",
-		"price": 173,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "SteelArm"
 	},
@@ -3458,31 +3362,31 @@
 	},
 	{
 		"abr": "surrogateheart",
-		"price": 2400,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "surrogatekidney",
-		"price": 1200,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SurrogateKidney"
 	},
 	{
 		"abr": "surrogateliver",
-		"price": 2400,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SurrogateLiver"
 	},
 	{
 		"abr": "surrogatelung",
-		"price": 1200,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SurrogateLung"
 	},
 	{
 		"abr": "surrogatestomach",
-		"price": 2400,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SurrogateStomach"
 	},
@@ -3554,7 +3458,7 @@
 	},
 	{
 		"abr": "tacticalcorneaimplant",
-		"price": -10,
+		"price": 14000,
 		"category": "Archotech",
 		"defname": "TacticalCorneaImplant"
 	},
@@ -3914,7 +3818,7 @@
 	},
 	{
 		"abr": "woodenfoot",
-		"price": 65,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "WoodenFoot"
 	},
@@ -3965,7 +3869,103 @@
 		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "changedresser",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChangeDresser"
+	},
+	{
+		"abr": "changemirror",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChangeMirror"
+	},
+	{
+		"abr": "mendingattachment",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RepairChangeDresser"
+	},
+	{
+		"abr": "stonespiketrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "FSFStoneTrapSpike"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestglitterworldhospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GlitterworldHospitalBedSWGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestkrudneppsinglebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "KRUDNEPPSingleGuest"
+	},
+	{
+		"abr": "guestpilfurbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "PILFURBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestslabneppdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SLABNEPPDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SNOREGGDoubleGuest"
+	},
+	{
+		"abr": "guestsnoreggsinglebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SNOREGGSingleGuest"
 	}
 	],
-	"total": 661
+	"total": 701
 }
